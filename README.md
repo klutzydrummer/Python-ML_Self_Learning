@@ -1,0 +1,1 @@
+These are old colab projects I created when first learning Python and it's concepts. They are messy, but they did work to gather and process thousands to millions of rows. One day I plan to do a full rewrite, but this will remain here as an example of my journey.
